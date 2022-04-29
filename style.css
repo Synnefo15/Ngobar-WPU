@@ -1,0 +1,31 @@
+body{
+    
+}
+
+nav {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #ffffcc;
+
+}
+
+#projects{
+    background-color: #ffffcc;
+}
+
+footer {
+    text-decoration: none;
+    background-color: #ffff33;
+}
+
+footer i{
+    color: orange;
+}
+
+section{
+    padding-top: 6rem;
+}
